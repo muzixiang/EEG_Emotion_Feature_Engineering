@@ -1,0 +1,6 @@
+C0复杂度
+是作用于时间序列的一种指标，表示序列的非规则程度。从一维的角度反映了时间序列随其长度的增长而出现新模式的速率。
+
+C0-complexity is a description of time sequences randomness. The algorithm not only can get accurately results for small data sets, but also avoids time series reconstructed process. The dynamic tendency of C0-complexity to EEG signal agrees with Approximate Entropy. Compared to Approximate Entropy, C0-complexity has advantage of saving a part of the computational effort.
+
+程序说明见c0complex.m。

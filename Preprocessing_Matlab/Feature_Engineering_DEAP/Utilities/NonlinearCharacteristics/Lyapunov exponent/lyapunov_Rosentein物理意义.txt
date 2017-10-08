@@ -1,0 +1,6 @@
+最大Lyapunov指数混沌系统的一个显著特征就是对系统初始条件的敏感性。Lyapunov指数表征了系统在相空间中相邻轨道间收敛或发散的平均指数率。
+
+The obvious feature of chaotic system is sensitivity to initial conditions. The largest Lyapunov exponent is used to measure the exponential divergence of initially close state-space trajectories and estimate the amount of chaos in a system. If the largest lyapunov exponent  < 0 , standing for two trajectories with nearby initial conditions contract; If  > 0, standing for two trajectories with nearby initial conditions diverge at an exponential rate and the system sensitivity to initial conditions, also indicating chaos.
+
+
+程序说明见主程序lyapunov_Rosentein.m。

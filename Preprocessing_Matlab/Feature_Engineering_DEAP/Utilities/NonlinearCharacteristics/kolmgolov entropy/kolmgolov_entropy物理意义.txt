@@ -1,0 +1,5 @@
+Kolmogorov熵是在相空间中刻画混沌运动的一个重要量度，它反映了系统动态过程中信息的平均损失率。
+
+The Kolmogorov entropy measures the rate of information loss per unit time.A positive, finite entropy generally is considered to be a clear demonstration that the time series and its underlying dynamics are chaotic. A large entropy indicates a stochastic, totally unpredictable phenomenon.
+
+程序说明见kolmgolov_entropy.m，主程序为kolmgolov_entropy.m

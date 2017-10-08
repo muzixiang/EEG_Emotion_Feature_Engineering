@@ -1,0 +1,5 @@
+近似熵是一种度量序列复杂性的统计方法，衡量当维数由m维增加到m+1维时序列中产生新模式的概率以及时间序列中新信息的发生率。反映时间新模式发生率随维数而增减的情况．因而反映了数据在结构上的复杂度。
+
+ApEn is a statistical property which can be used to quantify the complexity or irregularity of a signal and ApEn measures the rate of time series producing new information. For the EEG time series, it assigns a positive value, with larger ApEn values corresponding more complexity or irregularity in the data.
+
+程序具体用法见ApEn.m注释，运行时只运行ApEn主程序就可以了，Bm.m为子程序。
