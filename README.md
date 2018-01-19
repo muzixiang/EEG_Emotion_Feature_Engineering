@@ -1,2 +1,2 @@
 # EEG_Emotion_Feature_Engineering
-These source codes and files are corresponding to the work submitted to Frontiers in Neuroscience.
+These files are corresponding to the work "Exploring EEG Features in Cross-subject Emotion Recognition" submitted to Frontiers in Neuroscience.
