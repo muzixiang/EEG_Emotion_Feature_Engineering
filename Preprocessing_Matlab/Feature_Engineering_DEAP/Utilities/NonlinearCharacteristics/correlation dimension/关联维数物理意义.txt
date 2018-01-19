@@ -1,6 +1,0 @@
-关联维数：体现了脑电的动力学特性，是描述混沌自由度信息的参数；研究表明混沌系统具有非整数的关联维数。关联维数反映脑电信号序列自身相关联程度，精神活动越强，关联维数越高，脑电信号越复杂，越趋于混沌。
-
-The correlation dimension (D2) indicates the dynamical characterize of EEG signal, the larger value of D2, the EEG time series the more complex and tendency to chaos. The draw back of the algorithm is difficult to choose parameters, because of the results too sensitive to parameters.
-
-程序说明见reC.m。运行时只运行主程序reC.m。
-
